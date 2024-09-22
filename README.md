@@ -1,7 +1,7 @@
 ## Hi there 👋
  <h1 align="center">Hi 👋, I'm Ben KUYU</h1>
 <h3 align="center">A passionate MERN stack developer from Tunisia 🇹🇳</h3>
-<img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
+<img width="400" align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benk513&label=Profile%20views&color=0e75b6&style=flat" alt="benk513" /> </p>
 
 - 🔭 I’m currently working on [Delizio Online Ordering Food application](www.deliziosoProject.com)
